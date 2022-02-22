@@ -16,9 +16,11 @@ I am currently a senior, majoring in Finance and Business Analytics within the T
 # **Project Title**
 ### Description
 ### How to Run Program
--read.csv()
--str()
--View()
+
+- read.csv()
+- str()
+- View()
+
 
 ### Files Used
 [Data Analyst Jobs](https://www.kaggle.com/kaanboke/plotly-data-analyst-jobs)
