@@ -17,6 +17,6 @@ I am currently a senior, majoring in Finance and Business Analytics within the T
 ### Description
 ### How to Run Program
 ### Files Used
-### *Additional Documentation*
 [Data Analyst Jobs](https://www.kaggle.com/kaanboke/plotly-data-analyst-jobs)
+### *Additional Documentation*
 ### Version Summary
