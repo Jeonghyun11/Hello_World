@@ -9,7 +9,7 @@ I am currently a senior, majoring in Finance and Business Analytics within the T
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [FILES USED](#Files-used)
 - [ADDITIONAL DOCUMENTATION](#Additional-documentation)
-- [VERSIONING](#Version-summary)
+- [Version Summary](#Version-summary)
 
 
 
